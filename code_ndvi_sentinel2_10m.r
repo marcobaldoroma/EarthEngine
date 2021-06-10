@@ -56,11 +56,11 @@ Export.image.toDrive({
 }
 
 
+#####################################################################################################################
 
+ # https://code.earthengine.google.com/9b0cff62e9a28dada67c6fb82e850086
 
-https://code.earthengine.google.com/9b0cff62e9a28dada67c6fb82e850086
-
-https://www.youtube.com/watch?v=h8g9IgxWwqw  video qgis crop shape file-raster
-crop satellite images. https://www.youtube.com/watch?v=HKNS-wsc7lo&t=70s
+# https://www.youtube.com/watch?v=h8g9IgxWwqw  video qgis crop shape file-raster
+# crop satellite images. https://www.youtube.com/watch?v=HKNS-wsc7lo&t=70s
 
 
